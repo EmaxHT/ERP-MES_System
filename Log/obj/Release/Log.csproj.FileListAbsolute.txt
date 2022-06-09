@@ -1,0 +1,7 @@
+D:\개발부\Projects\Emax\sERP_GLUESYS\Log\bin\Release\log4net.xml
+D:\개발부\Projects\Emax\sERP_GLUESYS\Log\bin\Release\Log.dll
+D:\개발부\Projects\Emax\sERP_GLUESYS\Log\bin\Release\Log.pdb
+D:\개발부\Projects\Emax\sERP_GLUESYS\Log\obj\Release\Log.csprojAssemblyReference.cache
+D:\개발부\Projects\Emax\sERP_GLUESYS\Log\obj\Release\Log.csproj.CoreCompileInputs.cache
+D:\개발부\Projects\Emax\sERP_GLUESYS\Log\obj\Release\Log.dll
+D:\개발부\Projects\Emax\sERP_GLUESYS\Log\obj\Release\Log.pdb

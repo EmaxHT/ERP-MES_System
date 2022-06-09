@@ -1,0 +1,2 @@
+ApplicationName|Version|Release date|downloadUrl|FileName
+Test_Setup|2.003|06/17/2021|http://192.168.0.60/GLUESYS/|SERP.zip

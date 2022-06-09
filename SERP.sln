@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SERP", "SERP\SERP.csproj", "{79E54418-AE84-453D-ABD7-283AC74C509B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log", "Log\Log.csproj", "{0F7CF4E8-5210-49B7-B644-52CC6547E251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_Start", "Program_Start\Program_Start.csproj", "{7BB84802-F208-4797-808C-A39230DA46BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_Update", "Program_Update\Program_Update.csproj", "{AD96690D-C8CD-49AC-A4A8-B92FF92EA418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linkhub", "Linkhub\Linkhub.csproj", "{F960F70D-9C37-46F8-A1D4-938A81BE9855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Popbill", "Popbill\Popbill.csproj", "{57F03B3E-C713-443A-AC04-90291B429204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E54418-AE84-453D-ABD7-283AC74C509B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E54418-AE84-453D-ABD7-283AC74C509B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E54418-AE84-453D-ABD7-283AC74C509B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E54418-AE84-453D-ABD7-283AC74C509B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7CF4E8-5210-49B7-B644-52CC6547E251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7CF4E8-5210-49B7-B644-52CC6547E251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7CF4E8-5210-49B7-B644-52CC6547E251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7CF4E8-5210-49B7-B644-52CC6547E251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB84802-F208-4797-808C-A39230DA46BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB84802-F208-4797-808C-A39230DA46BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB84802-F208-4797-808C-A39230DA46BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB84802-F208-4797-808C-A39230DA46BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD96690D-C8CD-49AC-A4A8-B92FF92EA418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD96690D-C8CD-49AC-A4A8-B92FF92EA418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD96690D-C8CD-49AC-A4A8-B92FF92EA418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD96690D-C8CD-49AC-A4A8-B92FF92EA418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F960F70D-9C37-46F8-A1D4-938A81BE9855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F960F70D-9C37-46F8-A1D4-938A81BE9855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F960F70D-9C37-46F8-A1D4-938A81BE9855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F960F70D-9C37-46F8-A1D4-938A81BE9855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F03B3E-C713-443A-AC04-90291B429204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F03B3E-C713-443A-AC04-90291B429204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F03B3E-C713-443A-AC04-90291B429204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F03B3E-C713-443A-AC04-90291B429204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A13586-5AFC-4F14-9954-02BB0FD7ABE2}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
